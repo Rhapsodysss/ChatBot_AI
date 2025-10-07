@@ -1,6 +1,6 @@
 const tombolSapa = document.getElementById('sapaButton');
 tombolSapa.addEventListener('click',function(){
-  alert('Thankyou for Fiviting :)');
+  alert('Thankyou for Fisiting :)');
 });
 
 const tomboldashboard = document.getElementById('dashboard');
